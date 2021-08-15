@@ -47,7 +47,7 @@ getNewQuestion = () => {
     return window.location.assign("end.html");
   }
   questionCounter++;
-  progressText.innerText = "question " + questionCounter + "/" + MAX_QUESTIONS; 
+  progressText.innerText = "Question " + questionCounter + "/" + MAX_QUESTIONS; 
   //update progress bar (referenced by id)
   progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
