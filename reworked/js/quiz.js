@@ -111,7 +111,7 @@ const displayResult = (scoreSection, isSign) => {
 
 /* Fetch JSON Files of questions for the test
 startQuiz() is used when data is resolved */
-fetch('/questions/roadSigns.json')
+fetch('/website development/ULhacks-Project/reworked/questions/roadSigns.json')
 .then(
     function(response) {
     if (response.status !== 200) {
@@ -130,7 +130,7 @@ fetch('/questions/roadSigns.json')
     console.log('Fetch Error :-S', err);
 });
 
-fetch('/questions/roadRules.json')
+fetch('/website development/ULhacks-Project/reworked/questions/roadRules.json')
 .then(
     function(response) {
     if (response.status !== 200) {
