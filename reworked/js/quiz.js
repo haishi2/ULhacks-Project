@@ -180,7 +180,7 @@ startQuiz = () => {
     if(!buttonPressed) {
         waitForIt();
     }
-    // defualt setitng = all
+    // defualt setting = all
     else {
         if (onlyRule) {
             avaliableQuestions = [...questionRule];
