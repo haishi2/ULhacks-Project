@@ -16,7 +16,7 @@
         "answer": 2
     },
     {
-        "question": "When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way shoild be given to:",
+        "question": "When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way should be given to:",
         "choice1":  "The one approaching from the left",
         "choice2":  "The one approaching from the right",
         "choice3":  "Neither one",
@@ -56,7 +56,7 @@
         "answer": 2
     },
     {
-        "question": "When a red signal light wtih a green arrow is shown at an intersection it means:",
+        "question": "When a red signal light with a green arrow is shown at an intersection it means:",
         "choice1":  "Stop and wait for the green light before making a turn in the direction of the arrow",
         "choice2":  "Proceed with caution in the direction of the arrow, yielding right-of-way to pedestrians and other traffic",
         "choice3":  "Stop and then proceed",
@@ -240,7 +240,7 @@
         "answer": 2
     },
     {
-        "question": "The police have the right to stop any driver they suspect is impaired. If you refuse to take a breathalyzer test, your liccence will be suspended immediately for:",
+        "question": "The police have the right to stop any driver they suspect is impaired. If you refuse to take a breathalyzer test, your license will be suspended immediately for:",
         "choice1":  "30 days",
         "choice2":  "1 year",
         "choice3":  "60 days",
@@ -313,7 +313,7 @@
     },
     {
         "question": "What documents may the police officer require a motor vehicle owner to produce?",
-        "choice1":  "If the motor vehicle is insured—a liablity insurance card",
+        "choice1":  "If the motor vehicle is insured—a liability insurance card",
         "choice2":  "The motor vehicle ownership",
         "choice3":  "If they are operating a motor vehicle—a valid driver's license",
         "choice4":  "Any of the above",
@@ -443,7 +443,7 @@
         "question": "A 'school bus' with red signal lights flashing, stops on a highway that has no median strip. What does the law require you to do when meeting or overtaking the bus?",
         "choice1":  "Does not matter provided you sound the horn",
         "choice2":  "Stop until the bus proceeds or the signal lights are no longer flashing",
-        "choice3":  "Wait for the appraoching vehicles to pass",
+        "choice3":  "Wait for the approaching vehicles to pass",
         "choice4":  "Reduce speed and pass with caution",
         "answer": 1
     },
@@ -464,7 +464,7 @@
         "answer": 0
     },
     {
-        "question": "Should your right wheels drop off the roadway, what is the best way to get back on the roadaway?",
+        "question": "Should your right wheels drop off the roadway, what is the best way to get back on the roadway?",
         "choice1":  "Steer hard to left",
         "choice2":  "Apply brakes and steer hard to the left",
         "choice3":  "Take off gas pedal, turn back when vehicle has slowed",
@@ -512,7 +512,7 @@
         "answer": 1
     },
     {
-        "question": "If you are driving and suddenly one of your tires blows out, you shoud:",
+        "question": "If you are driving and suddenly one of your tires blows out, you should:",
         "choice1":  "Concentrate on steering",
         "choice2":  "Take your foot off the gas pedal to slow down",
         "choice3":  "Bring the vehicle to a stop off the road",
@@ -544,7 +544,7 @@
         "answer": 0
     },
     {
-        "question": "Why is it necessary to check oaver your shoulder when changing lanes?",
+        "question": "Why is it necessary to check over your shoulder when changing lanes?",
         "choice1":  "It is a good exercise for your neck",
         "choice2":  "There will always be a blind spot in your mirrors, no matter how you adjust them",
         "choice3":  "To see who is driving",
@@ -648,7 +648,7 @@
         "answer": 1
     },
     {
-        "question": "When approaching a railway crossing at which an electrical or mechanical signal device is warning of the appraoch of a train, you must:",
+        "question": "When approaching a railway crossing at which an electrical or mechanical signal device is warning of the approach of a train, you must:",
         "choice1":  "Stop not less tahn 1.5 m (5 ft.) from the nearest rail",
         "choice2":  "Increase speed and cross tracks as quickly as possible",
         "choice3":  "Stop not less than 5 m (15 ft.) from the nearest rail",
@@ -660,7 +660,7 @@
         "choice1":  "Report the accident at once to the nearest provincial or municipal police officer",
         "choice2":  "Report the accident within 48 hours to the nearest provincial or municipal police officer",
         "choice3":  "Report the accident to your insurance company only",
-        "choice4":  "Report the accident to the Ministry of Transportation and Communcations only",
+        "choice4":  "Report the accident to the Ministry of Transportation and Communications only",
         "answer": 0
     },
     {
@@ -720,7 +720,7 @@
         "answer": 1
     },
     {
-        "question": "WHich of the following hand-and-arm signal is correct for slowing or stopping?",
+        "question": "Which of the following hand-and-arm signal is correct for slowing or stopping?",
         "choice1":  "Arm out and up",
         "choice2":  "Arm straight out the window",
         "choice3":  "Arm out and down",
@@ -768,7 +768,7 @@
         "answer": 1
     },
     {
-        "question": "If you are a teenage driver aged 19 or umder, in the first six months after recieving your G2 license, how many teenage pasengers are you allowed to carry between mignight to 5 am?",
+        "question": "If you are a teenage driver aged 19 or under, in the first six months after receiving your G2 license, how many teenage passengers are you allowed to carry between midnight to 5 am?",
         "choice1":  "3 passengers aged 19 or under",
         "choice2":  "No passengers aged 19 or under",
         "choice3":  "1 passanger aged 19 or under",
@@ -776,7 +776,7 @@
         "answer": 2
     },
     {
-        "question": "If you are a teenage driver, after six months with your G2 license and until you obtain your full G license or turn 20, how many teenage pasengers are you allowed to carry between mignight to 5 am?",
+        "question": "If you are a teenage driver, after six months with your G2 license and until you obtain your full G license or turn 20, how many teenage passengers are you allowed to carry between midnight to 5 am?",
         "choice1":  "3 passangers aged 19 or under",
         "choice2":  "No passangers aged 19 or under",
         "choice3":  "1 passanger aged 19 or under",
@@ -808,7 +808,7 @@
         "answer": 1
     },
     {
-        "question": "At night when you meet another vehicle with blindng bright lights, the safest thing to do is:",
+        "question": "At night when you meet another vehicle with blinding bright lights, the safest thing to do is:",
         "choice1":  "Open and shut your eyes rapidly",
         "choice2":  "Look at the headlights of the approaching vehicle",
         "choice3":  "Turn your high beam lights on",

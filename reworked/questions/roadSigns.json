@@ -119,7 +119,7 @@
     {
         "question": "What does this sign mean?",
         "image":    "images/question14.jpg",
-        "choice1":  "A hiddden scbool bus stop ahead, slow down, drive with extra caution, watch for children and school buses with flashing red lights",
+        "choice1":  "A hidden school bus stop ahead, slow down, drive with extra caution, watch for children and school buses with flashing red lights",
         "choice2":  "Hidden intersection",
         "choice3":  "School zone",
         "choice4":  "School with playground",
